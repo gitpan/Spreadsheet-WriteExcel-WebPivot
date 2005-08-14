@@ -1,0 +1,27 @@
+Spreadsheet-WriteExcel-WebPivot version 0.01
+============================================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+DBI, FileHandle and Switch. Note that this module produces output that is 
+only viewable on Windows running Internet Explorer
+
+COPYRIGHT AND LICENCE
+
+
+Copyright (C) 2005 by Nathan Lewis
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.3 or,
+at your option, any later version of Perl 5 you may have available.

@@ -1,0 +1,6 @@
+Revision history for Perl extension Spreadsheet::WriteExcel::WebPivot.
+
+0.01  Sun Aug 14 15:07:43 2005
+	- original version; created by h2xs 1.23 with options
+		-X -n Spreadsheet::WriteExcel::WebPivot
+

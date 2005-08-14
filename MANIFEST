@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Spreadsheet-WriteExcel-WebPivot.t
+lib/Spreadsheet/WriteExcel/WebPivot.pm
